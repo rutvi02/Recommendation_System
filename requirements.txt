@@ -1,0 +1,5 @@
+numpy
+pickle
+tensorflow
+sklearn.neighbors 
+os
